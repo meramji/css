@@ -1,0 +1,19 @@
+*{
+   margin:0;
+   padding:0;
+   box-sizing: border-box;
+}
+html,body{
+    width:100%;
+    height:100%;
+}
+#parent{
+    min-height:100%;
+    width:100%;
+    background-color: crimson;
+}
+#children1{
+    height:120vh;
+    width: 60%;
+    background-color: rgb(243, 255, 240);
+}
